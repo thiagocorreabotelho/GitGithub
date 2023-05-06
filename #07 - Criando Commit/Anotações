@@ -1,1 +1,31 @@
+## Anotações
 
+Neste vídeo de hoje, vamos falar sobre como fazer commit em seu dia a dia como #desenvolvedor de #sistemas utilizando o #git e #github.
+
+Para esse vídeo deixo aqui abaixo um exercício para vocês executarem na máquina de vocês.
+
+MÃO NA MASSA: 🤚🏻
+
+1º Primeiro passo é criar uma pasta no seu computador, onde você queira armazenar o conteúdo desse vídeo. (repositório local)
+
+2º Em meu github vocês poderão clonar o projeto do meu repositório remoto ou criar o seu. (https://github.com/thiagocorreabotelh...)
+
+3º  Em seu repositório local você vai clonar ou meu repositório remoto, ou caso você tenha criado o seu você vai precisar clonar o seu.
+
+4º Dentro do seu repositório local você vai adicionar um arquivo de texto por exemplo meuarquivo.txt. Dentro desse arquivo você vai adicionar um texto qualquer.
+
+5º dentro do seu terminal/bash executa o comando responsável por adicionar todos os arquivos ou seja, preparar o arquivo para subir.
+
+6º Rodar o comando para exibir o status dos arquivos se tiver da cor verde, significa que esse arquivo esta preparado para subir para o repositório remoto. Caso esteja da cor em vermelho você precisa adicionar na fila de prioridade dando um comando git add .
+
+7º Depois de constar seus arquivos em verde ou seja, preparado para o commit, faça o commit com seu comentário.
+
+8º Faça o comando para subir seu commit para o github git push (envia para seu repositório remoto.)
+
+Teste Livres:
+Faça mais teste adicione novas linhas exclua linhas que já foram para seu repositório remoto e adicione mais um commit e veja o comportamento. 😁
+
+Dúvidas? Deixe seu comentário abaixo que vou responder a todos.
+
+## Link do vídeo
+https://www.youtube.com/watch?v=41m7nrAkl2Q
